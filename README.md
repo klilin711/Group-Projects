@@ -1,2 +1,1 @@
-# Group-Projects
-This is an integration of the projects done at university.
+# Predictors to Success of Netflix
